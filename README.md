@@ -6,7 +6,7 @@
 
 <br>
 
-#### FrontEnd Stack
+### FrontEnd Stack
 
 ![Static Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -18,7 +18,7 @@
 
 <br>
 
-#### BackEnd Stack
+### BackEnd Stack
 
 ![Static Badge](https://img.shields.io/badge/NodeJS-%23b1ff3d?style=for-the-badge&logo=nodedotjs&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/EXPRESS-%23c7fff4?style=for-the-badge&logo=express&logoColor=black)
@@ -28,7 +28,7 @@
 
 <br>
 
-#### Web3 Stack
+### Web3 Stack
 
 ![Static Badge](https://img.shields.io/badge/INTERNET--COMPUTER-%23ffc130?style=for-the-badge&logo=internetcomputer&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/MOTOKO-%23e8e4da?style=for-the-badge&logoColor=red&label=m.&labelColor=red&color=red)
