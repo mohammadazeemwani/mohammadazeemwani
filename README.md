@@ -1,5 +1,5 @@
 <h1 align="center">I'm MohammadAzeem Wani</h1>
-<h2 align="center">👨🏻‍💻Web3 and DApp developer || 🛠️Full Stack developer || 🎨UI/UX Designer</h2>
+<h2 align="center">🛠️Full Stack developer || 🎨UI/UX Designer</h2>
 <img src="https://files.catbox.moe/suylrg.jpg">
 
 <h3 align="left">🛠️ My Tech Stack</h3>
